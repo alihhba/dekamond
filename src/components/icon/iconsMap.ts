@@ -1,0 +1,22 @@
+export const iconMap = {
+    add: { src: '/icons/add.svg' },
+    home: { src: '/icons/home.svg' },
+    logo: { src: '/icons/logo.svg' },
+    video: { src: '/icons/video.svg' },
+    arrow_down: { src: '/icons/arrow-down.svg' },
+    arrow2: { src: '/icons/arrow2.svg' },
+    calendar: { src: '/icons/calendar-edit.svg' },
+    arrow3: { src: '/icons/arrow-left.svg' },
+    profile: { src: '/icons/profile.svg' },
+    category: { src: '/icons/category.svg' },
+    sms: { src: '/icons/sms.svg' },
+    sms_tracking: { src: '/icons/sms-tracking.svg' },
+    call: { src: '/icons/call.svg' },
+    call2: { src: '/icons/call2.svg' },
+    email2: { src: '/icons/email2.svg' },
+    linkedin: { src: '/icons/linkedin.svg' },
+    telegram: { src: '/icons/telegram.svg' },
+    whatsapp: { src: '/icons/whatsapp.svg' },
+    x: { src: '/icons/x.svg' },
+
+};
