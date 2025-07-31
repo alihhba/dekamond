@@ -28,8 +28,8 @@ export const ScrollAnimation = ({
     const getXDirection = () => {
         // if (from === 'left') return isRTL ? 100 : -100;
         // if (from === 'right') return isRTL ? -100 : 100;
-        if (from === 'left') return  -100 ;
-        if (from === 'right') return  100 ;
+        if (from === 'left') return  -90 ;
+        if (from === 'right') return  90 ;
         return 0;
     };
 
