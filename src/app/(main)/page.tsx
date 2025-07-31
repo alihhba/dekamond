@@ -25,7 +25,7 @@ export default function Home() {
                         <div className={'w-3/12 flex flex-col justify-start gap-2'}>
                             <p className={'text-[30px] font-normal text-start'}>گروه
                             </p>
-                            <p className={' text-[30px] font-normal text-start'}>
+                            <p className={' text-[30px] font-normal text-start text-nowrap'}>
                                 ارزش‌آفرین ‌وان</p>
                         </div>
                     </ScrollAnimation>
