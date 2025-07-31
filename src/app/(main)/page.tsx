@@ -287,7 +287,7 @@ export default function Home() {
                 </ScrollAnimation>
 
 
-                <div className={'absolute -end-20 mt-[100px]'}>
+                <div className={'absolute -end-0 mt-[100px]'}>
                     <ScrollAnimation from={'left'}>
                         <img src="/frame4.svg" alt=""/>
                     </ScrollAnimation>
